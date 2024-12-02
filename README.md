@@ -4,7 +4,7 @@ The Uganda AI Studio plans to develop a range of foundational language models ta
 
 **Target Models:**
 
-* **Foundational Language Models for Ugandan Languages:** These models will be adapted for specific Ugandan languages, including Luganda, and others as the project progresses. These will serve as general-purpose models for a wide range of downstream applications.
+* **Foundational Language Models for Ugandan Languages:** These models will be adapted for specific Ugandan languages, including Luganda,Runyakore and others as the project progresses. These will serve as general-purpose models for a wide range of downstream applications.
 * **Sector-Specific Models:** We will also develop specialized models fine-tuned for key sectors, such as:
     * **Agriculture:**  Focused on tasks like crop disease diagnosis, pest control recommendations, and market price prediction.
     * **Healthcare:**  Aimed at improving diagnostics, patient care, and access to medical information.
@@ -20,13 +20,4 @@ Our model development process will prioritize:
 * **Community Engagement:** We will actively involve the community in data collection, model evaluation, and feedback.
 
 As models are developed and released, links to their Hugging Face model cards and documentation will be added here. Stay tuned for updates!
-content_copy
-Use code with caution.
-Markdown
-Key changes:
 
-"Planned Models (Phase 1)": Clearly indicates that these are future targets for the initial phase.
-Generic Descriptions: Instead of naming specific model versions prematurely, the descriptions focus on the target languages and sectors.
-Emphasis on Approach: Highlights the importance of data quality, evaluation, and community involvement, even before specific models exist.
-Call to Action/Future Updates: Encourages users to check back for updates as models are released.
-This revised section manages expectations, avoids premature specificity, and clearly communicates the project's plans and priorities for model development. It also maintains excitement about the forthcoming models.
